@@ -1,14 +1,16 @@
 {
-  "name": "node-app",
+  "name": "app",
   "version": "1.0.0",
   "description": "A simple Node.js application",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js", 
-    "test": "echo \"No tests yet\" && exit 0"  
+    "start": "node index.js",
+    "test": "echo \"No tests yet\" && exit 0"
   },
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.21.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
-

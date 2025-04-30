@@ -17,4 +17,5 @@ spec:
         image: hasnabinzy/node-app:latest
         ports:
         - containerPort: 3000
+        imagePullPolicy: Always
 
