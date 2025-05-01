@@ -4,4 +4,3 @@ metadata:
   name: node-app
 spec:
   # ... your rolling update strategy and other fields
-
